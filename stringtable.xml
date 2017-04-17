@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Tactical Battlefield">
+<Package name="Missions">
+
+<Container name="TB_Snake Hunter">
+
+	<Key ID="STR_TB_missionTitle_TB_Snake_Hunter">
+		<Original>Snake Hunter</Original>
+		<English>Snake Hunter</English>
+		<German>Snake Hunter</German>
+		<Italian>Snake Hunter</Italian>
+		<Spanish>Snake Hunter</Spanish>
+		<French>Snake Hunter</French>
+		<Czech>Snake Hunter</Czech>
+		<Russian>Snake Hunter</Russian>
+		<Polish>Snake Hunter</Polish>
+		<Hungarian>Snake Hunter</Hungarian>
+	</Key>
+
+</Container>
+
+</Package>
+</Project>

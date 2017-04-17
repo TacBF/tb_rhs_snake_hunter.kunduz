@@ -1,0 +1,99 @@
+/*
+gear[] = {
+
+	// PRIMARY WEAPONS
+
+		// Basic Rifles
+
+			{"rhs_weap_ak74m", {__ICE_gear_allRoles}},
+			{"rhs_weap_ak74m_desert", {__ICE_gear_allRoles}},
+			{"rhs_weap_ak74m_folded", {__ICE_gear_allRoles}, 1},
+
+			{"rhs_weap_M590_5RD", {__ICE_gear_Rifleman, __ICE_gear_CombatEngineer}, 1},
+			{"rhs_weap_M590_8RD", {__ICE_gear_Rifleman, __ICE_gear_CombatEngineer}, 1},
+
+		// Grenade Launchers
+		
+			{"rhs_weap_ak74m_gp25", {__ICE_gear_Grenadier}},
+			
+		// Machine Guns
+		
+			{"rhs_weap_pkp", {__ICE_gear_MG}},
+			
+		// Marksman Rifles
+		
+			{"rhs_weap_svds", {__ICE_gear_Marksman}},
+
+		// Sniper Rifles
+		
+			{"rhs_weap_svdp_npz", {__ICE_gear_Sniper}},
+
+	// PRIMARY WEAPON ATTACHMENTS
+	
+		// Rifle Sights
+		
+			{"rhs_acc_1p63", {__ICE_gear_Inf}, 1},
+			{"rhs_acc_ekp1", {__ICE_gear_Inf}, 1},
+			{"rhs_acc_pkas", {__ICE_gear_Inf}, 1},
+			
+			{"rhs_acc_1p29", {__ICE_gear_Rifleman, __ICE_gear_SL}},
+			{"rhs_acc_pso1m2", {__ICE_gear_Marksman}},
+			{"optic_LRPS", {__ICE_gear_Sniper}},
+			
+		// Rifle Attachments
+		
+			{"rhs_acc_dtk", {__ICE_gear_Inf}, 1},
+
+	// LAUNCHERS
+
+		{"rhs_weap_rpg7", {__ICE_gear_LightAT}},
+		{"CUP_launch_Metis", {__ICE_gear_HeavyAT}},		
+		{"CUP_launch_FIM92Stinger", {__ICE_gear_AA}},
+		
+		// Sights
+		
+			{"rhs_acc_pgo7v", {__ICE_gear_LightAT}},
+
+	// BACKPACKS
+
+		{"rhs_assault_umbts", {__ICE_gear_allRoles}, 1},
+		{"tf_mr3000_rhs", {__ICE_gear_allRoles}, 1},
+		{"B_Parachute", {__ICE_gear_allRoles}, 1},
+		
+		{"B_Carryall_oli", {__ICE_gear_HeavyAT, __ICE_gear_AA}},
+
+	// SIDEARMS
+
+		{"rhs_weap_makarov_pmm", {__ICE_gear_allRoles}, 1},
+
+	// EXPLOSIVES
+
+		{"rhs_mag_rgd5", {__ICE_gear_allRoles}, 1},
+		{"O_IR_Grenade", {__ICE_gear_allRoles}, 1},
+		{"DemoCharge_Remote_Mag", {__ICE_gear_CombatEngineer}},
+
+		{"SmokeShell", {__ICE_gear_allRoles}, 1},
+		{"SmokeShellYellow", {__ICE_gear_SL, __ICE_gear_Crewman, __ICE_gear_Pilot}},
+		{"SmokeShellGreen", {__ICE_gear_SL, __ICE_gear_Crewman, __ICE_gear_Pilot}},
+		{"SmokeShellRed", {__ICE_gear_SL, __ICE_gear_Crewman, __ICE_gear_Pilot}},
+		{"SmokeShellPurple", {__ICE_gear_SL, __ICE_gear_Crewman, __ICE_gear_Pilot}},
+		{"SmokeShellOrange", {__ICE_gear_SL, __ICE_gear_Crewman, __ICE_gear_Pilot}},
+		{"SmokeShellBlue", {__ICE_gear_SL, __ICE_gear_Crewman, __ICE_gear_Pilot}},
+		
+		{"Chemlight_green", {__ICE_gear_allRoles}, 1},
+		{"Chemlight_red", {__ICE_gear_SL}},
+		{"Chemlight_yellow", {__ICE_gear_SL}},
+		{"Chemlight_blue", {__ICE_gear_SL}},
+
+	// EQUIPMENT
+	
+		{"NVGoggles", {__ICE_gear_allRoles}, 1},
+		{"Binocular", {__ICE_gear_allRoles}, 1},
+		{"TB_laserDesignatorNVG", {__ICE_gear_SL}},
+		{"Rangefinder", {__ICE_gear_Sniper, __ICE_gear_Crewman}},
+	
+		{"ToolKit", {__ICE_gear_CombatEngineer}},
+		{"MineDetector", {__ICE_gear_CombatEngineer}},
+		{"LaserBatteries", {__ICE_gear_SL}}
+};
+*/

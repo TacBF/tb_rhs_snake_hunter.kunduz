@@ -1,0 +1,35 @@
+uniforms[] = {
+
+	// UNIFORMS
+		
+		{"rhs_uniform_cu_ucp", {__ICE_gear_allRoles}},
+		
+		{"U_B_HeliPilotCoveralls", {__ICE_gear_Pilot}},
+		{"U_B_Wetsuit", {__ICE_gear_Diver}},
+		
+	// HELMETS
+
+		{"rhsusf_ach_helmet_ucp", {__ICE_gear_allRoles}},
+		
+		{"rhsusf_ach_helmet_headset_ucp", {__ICE_gear_SL}},
+		{"rhs_Booniehat_ucp", {__ICE_gear_Marksman, __ICE_gear_Sniper, __ICE_gear_Diver}},
+		{"rhsusf_cvc_green_helmet", {__ICE_gear_Crewman}},
+		{"rhsusf_hgu56p", {__ICE_gear_Pilot}},
+
+	// VESTS
+
+		{"rhsusf_iotv_ucp_Rifleman", {__ICE_gear_allRoles}},
+		
+		{"rhsusf_iotv_ucp_Grenadier", {__ICE_gear_Grenadier}},
+		{"rhsusf_iotv_ucp_SAW", {__ICE_gear_MG}},
+		{"rhsusf_iotv_ucp_Medic", {__ICE_gear_Medic}},
+		{"rhsusf_iotv_ucp_Repair", {__ICE_gear_CombatEngineer}},
+		{"rhsusf_iotv_ucp_Squadleader", {__ICE_gear_SL}},
+		{"V_PlateCarrier1_blk", {__ICE_gear_Pilot}},
+		{"V_RebreatherB", {__ICE_gear_Diver}},
+		
+	// GOGGLES
+
+		{"rhs_googles_black", {__ICE_gear_allRoles}},
+		{"rhs_googles_clear", {__ICE_gear_allRoles}}
+};

@@ -1,0 +1,54 @@
+uniforms[] = {
+
+	// UNIFORMS
+
+	// Infantry
+	{"U_Afghan01NH", {__ICE_gear_allRoles}},
+	{"U_Afghan01", {__ICE_gear_allRoles}},
+	{"U_Afghan02NH", {__ICE_gear_allRoles}},
+	{"U_Afghan02", {__ICE_gear_allRoles}},
+	{"U_Afghan03NH", {__ICE_gear_allRoles}},
+	{"U_Afghan03", {__ICE_gear_allRoles}},
+	{"U_Afghan04", {__ICE_gear_allRoles}},
+	{"U_Afghan05", {__ICE_gear_allRoles}},
+	{"U_Afghan06NH", {__ICE_gear_allRoles}},
+	{"U_Afghan06", {__ICE_gear_allRoles}},
+		
+	// Sniper
+	{"U_I_FullGhillie_ard", {__ICE_gear_Sniper}},
+	{"U_I_FullGhillie_lsh", {__ICE_gear_Sniper}},
+	{"U_I_FullGhillie_sard", {__ICE_gear_Sniper}},
+		
+	// HELMETS
+
+	{"Afghan_01Hat", {__ICE_gear_allRoles}},
+	{"Afghan_02Hat", {__ICE_gear_allRoles}},
+	{"Afghan_03Hat", {__ICE_gear_allRoles}},
+	{"Afghan_04Hat", {__ICE_gear_allRoles}},
+	{"Afghan_05Hat", {__ICE_gear_allRoles}},
+	{"Afghan_06Hat", {__ICE_gear_allRoles}},
+	
+	{"H_Shemag_khk", {__ICE_gear_allRoles}},
+	{"H_Shemag_olive", {__ICE_gear_allRoles}},
+	{"H_Shemag_tan", {__ICE_gear_allRoles}},
+	
+	{"H_Bandanna_gry", {__ICE_gear_allRoles}},
+	{"H_Bandanna_cbr", {__ICE_gear_allRoles}},
+	{"H_Bandanna_sand", {__ICE_gear_allRoles}},
+	{"H_Bandanna_khk", {__ICE_gear_allRoles}},
+	{"H_Bandanna_sgg", {__ICE_gear_allRoles}},
+	{"H_Bandanna_blu", {__ICE_gear_allRoles}},
+		
+	{"rhs_zsh7a_mike", {__ICE_gear_Pilot}},
+
+	// VESTS
+		
+	{"V_HarnessOGL_gry", {__ICE_gear_allRoles}},
+	{"V_HarnessOGL_brn", {__ICE_gear_allRoles}},
+
+	{"V_BandollierB_khk", {__ICE_gear_allRoles}},
+	{"V_BandollierB_cbr", {__ICE_gear_allRoles}},
+	{"V_BandollierB_rgr", {__ICE_gear_allRoles}},
+	{"V_BandollierB_blk", {__ICE_gear_allRoles}},
+	{"V_BandollierB_oli", {__ICE_gear_allRoles}}
+};

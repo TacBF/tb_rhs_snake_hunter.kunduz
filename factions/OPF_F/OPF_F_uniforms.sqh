@@ -1,0 +1,25 @@
+uniforms[] = {
+
+	// UNIFORMS
+
+		{"rhs_uniform_flora", {__ICE_gear_allRoles}},
+		{"rhs_uniform_df15", {__ICE_gear_Pilot}},
+		
+	// HELMETS
+
+		{"rhs_6b26", {__ICE_gear_allRoles}},
+		{"rhs_Booniehat_flora", {__ICE_gear_Marksman, __ICE_gear_Sniper}},
+		{"rhs_tsh4", {__ICE_gear_Crewman}},
+		{"rhs_zsh7a_mike", {__ICE_gear_Pilot}},
+
+	// VESTS
+
+		{"rhs_6b23_6sh92", {__ICE_gear_allRoles}},
+		{"rhs_6b23_rifleman", {__ICE_gear_Rifleman}},
+		{"rhs_6b23_6sh92_vog", {__ICE_gear_Grenadier}},
+		{"rhs_6b23_medic", {__ICE_gear_Medic}},
+		{"rhs_6b23_engineer", {__ICE_gear_CombatEngineer}},
+		{"rhs_6b23_sniper", {__ICE_gear_Marksman, __ICE_gear_Sniper}},
+		{"rhs_6b23_crewofficer", {__ICE_gear_Crewman}},
+		{"rhs_vydra_3m", { __ICE_gear_Pilot}}
+};

@@ -1,0 +1,74 @@
+gear[] = {
+
+	// PRIMARY WEAPONS
+
+		// Basic Rifles
+		
+			{"rhs_weap_ak74m_folded", {__ICE_gear_allRoles}},
+			{"rhs_weap_ak74m", {__ICE_gear_allRoles}},
+			{"rhs_weap_M590_5RD", {__ICE_gear_allRoles}},
+		
+		// Grenade Launchers
+		
+			{"rhs_weap_ak74m_gp25", {__ICE_gear_Grenadier}},
+			{"rhs_weap_ak74m_gp25_folded", {__ICE_gear_Grenadier}},
+			
+		// Machine Guns
+		
+			{"rhs_weap_pkm", {__ICE_gear_MG}},
+			{"rhs_weap_rpk74", {__ICE_gear_MG}},
+			
+		// Marksman/Sniper Rifles
+		
+			{"rhs_weap_svds", {__ICE_gear_Marksman}},
+			{"srifle_DMR_06_olive_F", {__ICE_gear_Marksman}},
+			{"rhs_weap_svdp_wd_npz", {__ICE_gear_Sniper}},
+
+	// PRIMARY WEAPON ATTACHMENTS
+	
+		// Rifle Sights
+		
+			{"rhs_acc_pso1m2", {__ICE_gear_Marksman}},
+			{"optic_LRPS", {__ICE_gear_Sniper}},
+			{"rhs_acc_dtk", {__ICE_gear_Inf}, 1},
+
+	// LAUNCHERS
+
+		{"CUP_launch_RPG18", {__ICE_gear_LightAT}},
+		{"rhs_weap_rpg7", {__ICE_gear_HeavyAT}},	
+		{"CUP_launch_9K32Strela", {__ICE_gear_AA}}, 
+		
+		// Sights
+		
+			{"rhs_acc_pgo7v", {__ICE_gear_HeavyAT}},
+
+	// BACKPACKS
+
+		{"B_Carryall_cbr", {__ICE_gear_allRoles}, 1},
+		{"B_Carryall_khk", {__ICE_gear_allRoles}},
+		{"B_Carryall_oli", {__ICE_gear_allRoles}, 1},
+		{"TB_Hideout_Pack_East", {__ICE_gear_Inf}},
+		{"B_Parachute", {__ICE_gear_Pilot}, 1},
+		{"TB_SuicideBomb_Pack", {__ICE_gear_Diver}},
+
+	// SIDEARMS
+
+		{"rhs_weap_makarov_pmm", {__ICE_gear_allRoles}, 1},
+
+	// EXPLOSIVES
+
+		{"rhs_mag_rgd5", {__ICE_gear_allRoles}, 1},
+		{"DemoCharge_Remote_Mag", {__ICE_gear_CombatEngineer, __ICE_gear_Diver}},
+
+		{"SmokeShell", {__ICE_gear_allRoles}, 1},
+		{"SmokeShellYellow", {__ICE_gear_allRoles}, 1},
+		
+		{"rhs_weap_rsp30_red", {__ICE_gear_allRoles}, 1},
+
+	// EQUIPMENT
+	
+		{"Binocular", {__ICE_gear_allRoles}, 1},
+		{"Rangefinder", {__ICE_gear_SL}},
+	
+		{"ToolKit", {__ICE_gear_CombatEngineer}}
+};

@@ -1,0 +1,33 @@
+#define TB_loadingScreen_imagePath "loadimage.jpg"
+
+onLoadName="Snake Hunter";
+overviewPicture="loadimage.jpg";
+author="Dr_Eyeball, TacBF Team.";
+onLoadMission="Tactical Battlefield: <t color='#FF00A5A5'>Attack and Defend (A&amp;D)</t> <t color='#FFD66300'>with CO-OP 4:1.</t><br />Desert, towns.<br /><t color='#FF00AEFF'>US</t> = APC, light vehicles (HMG). FOs, MWs.<br /><t color='#FFD66361'>INS</t> = APC, light vehicles (HMG), MGs. HOs, MWs.";
+
+#include "tb_description.sqh"
+#include "tb_settings.hpp"
+#include "tb_objectReplacements.hpp"
+#include "tb_magazineLimitations.hpp"
+#include "tb_supply.hpp"
+
+#define TB_RECOMPILE
+//#define TB_RECOMPILE recompile = 1;
+class cfgFunctions
+{
+	class TB
+	{
+		tag = "TB_AI";
+
+		class AI_tasks
+		{
+			//file = "\ice\ice_main\sys\AI\tasks";
+			file = "AI\tasks";
+			class cba_taskDefend_fixed {TB_RECOMPILE};
+			class taskAttack {TB_RECOMPILE};
+			class taskDefend {TB_RECOMPILE};
+			class taskPatrol {TB_RECOMPILE};
+			class taskSearchArea {TB_RECOMPILE};
+		};
+	};
+};
